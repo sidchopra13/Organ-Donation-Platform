@@ -1,5 +1,5 @@
 {
-  "name": "organ-donation-system",
+  "name": "organ-donation-platform",
   "version": "1.0.0",
   "description": "A platform connecting organ donor and acceptor via ethereum blockchain",
   "main": "src/index.js",
