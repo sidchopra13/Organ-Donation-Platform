@@ -72,7 +72,7 @@ Install gitbash from https://gitforwindows.org/
 1. Open gitbash or terminal.
 2. Clone the repo.
    ```sh
-   git clone https://github.com/Udituk/Organ-Donation-Platform.git
+   https://github.com/sidchopra13/Organ-Donation-Platform
    ```
 3. Traverse into the app folder.
    ```sh
