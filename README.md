@@ -22,13 +22,6 @@ You would need these software installed on your machine to run the project.
 
 Note: If you're on Windows 11, make sure to have latest LTS version of nodejs installed, or else you'll probably run into some issues.
 
-#### Arch Linux:
-
-Open a terminal and type the following command.
-
-```sh
-sudo pacman -S nodejs npm
-```
 
 #### Ubuntu:
 
@@ -38,13 +31,6 @@ Open a terminal and type these commands in order.
   sudo apt update
   sudo apt install nodejs
   sudo apt install npm
-```
-
-#### RedHat, Fedora, CentOS:
-
-```sh
-sudo yum update
-curl -sL https://rpm.nodesource.com/setup_14.x | sudo bash -
 ```
 
 #### MacOS:
@@ -68,12 +54,6 @@ Download the platform binary for your OS and install it.
 
 ### Git
 
-#### Arch Linux
-
-```sh
-sudo pacman -S git
-```
-
 #### Ubuntu
 
 ```sh
@@ -92,7 +72,7 @@ Install gitbash from https://gitforwindows.org/
 1. Open gitbash or terminal.
 2. Clone the repo.
    ```sh
-   git clone https://github.com/rahulsabinkar/organ-donation-platform.git
+   git clone https://github.com/Udituk/Organ-Donation-Platform.git
    ```
 3. Traverse into the app folder.
    ```sh
