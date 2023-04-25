@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/Udituk/Organ-Donation-Platform">
+  <a href="https://github.com/sidchopra13/Organ-Donation-Platform">
     <img src="app/src/images/organ-donation-logo-new.svg" alt="Logo" width="80" height="80">
   </a>
 </div>
